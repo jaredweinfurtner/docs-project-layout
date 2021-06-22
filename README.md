@@ -8,7 +8,7 @@ For technical documentation, we often distribute it via the web (think readthedo
 
 ## Getting Started
 
-You will probably want to separate your project code (for example, in `/src`) from your technical documentation code (in `/docs`).  To get started with technical documentation, please head over to [*/docs/README.md*](docs/README.md).
+You will probably want to separate your project code (for example, in `/src`) from your technical documentation code (in `/docs`).  To get started with technical documentation, please head over to [*/docs*](./docs).
 
 ## License
 
