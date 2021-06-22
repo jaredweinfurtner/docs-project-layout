@@ -12,7 +12,9 @@ You will probably want to separate your project code (for example, in `/src`) fr
 
 ## Technical Documentation
 
-You can add the generated pdf of the technical documentation as [release assets](https://github.com/jaredweinfurtner/docs-project-layout/releases), or deploy the static html to [Read the Docs](https://github.com/jaredweinfurtner/docs-project-layout/releases), [GitHub Pages](https://pages.github.com/), or any service that will host static html.
+For technical documentation you have options:
+- To view as a PDF, please go to the [latest release assets](https://github.com/jaredweinfurtner/docs-project-layout/releases)
+- To view as HTML, please go to [docs-project-layout.weinfurtner.io](http://docs-project-layout.weinfurtner.io)
 
 ## License
 
