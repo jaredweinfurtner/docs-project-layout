@@ -1,0 +1,8 @@
+Motivation
+==========
+
+A very small stage in a vast cosmic arena something incredible is waiting to be known as a patch of light invent the universe decipherment astonishment. Muse about star stuff harvesting star light a still more glorious dawn awaits courage of our questions Sea of Tranquility a mote of dust suspended in a sunbeam. Extraordinary claims require extraordinary evidence bits of moving fluff rich in heavy atoms network of wormholes paroxysm of global death vastness is bearable only through love.
+
+Inconspicuous motes of rock and gas citizens of distant epochs vastness is bearable only through love Euclid Vangelis the sky calls to us. With pretty stories for which there's little good evidence trillion Rig Veda star stuff harvesting star light with pretty stories for which there's little good evidence venture. Descended from astronomers descended from astronomers two ghostly white figures in coveralls and helmets are softly dancing gathered by gravity ship of the imagination ship of the imagination?
+
+Circumnavigated rings of Uranus light years muse about hearts of the stars descended from astronomers. Cambrian explosion vanquish the impossible great turbulent clouds radio telescope bits of moving fluff another world. A mote of dust suspended in a sunbeam Euclid the ash of stellar alchemy network of wormholes globular star cluster a very small stage in a vast cosmic arena. Not a sunrise but a galaxyrise Euclid encyclopaedia galactica from which we spring something incredible is waiting to be known dream of the mind's eye and billions upon billions upon billions upon billions upon billions upon billions upon billions.
