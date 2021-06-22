@@ -16,7 +16,7 @@ docs-project-layout
    * - **Copyright**
      - The Unlicense <http://unlicense.org>
 
-Welcome to the documentation of `DayGrid <https://github.com/boschresearch/DayGrid>`_!  This documentation contains just Sagan Ipsum (Lorem Ipsum for the cosmos), but showcases the capabilities of Sphinx + Draw.io.
+Welcome to the documentation of `docs-project-layout <https://github.com/jaredweinfurtner/docs-project-layout>`_!  This documentation contains just Sagan Ipsum (Lorem Ipsum for the cosmos), but showcases the capabilities of Sphinx + Draw.io.
 
 The documentation is organized into the following sections:
 
