@@ -12,6 +12,6 @@ You will probably want to separate your project code (for example, in `/src`) fr
 
 ## License
 
-docs-project-layout is open-sourced under the Unlicense license. See the
+**docs-project-layout** is open-sourced under the Unlicense license. See the
 [LICENSE](LICENSE) file for details.
 
