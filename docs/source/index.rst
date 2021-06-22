@@ -18,7 +18,9 @@ docs-project-layout
 
 Welcome to the documentation of `docs-project-layout <https://github.com/jaredweinfurtner/docs-project-layout>`_!  This documentation contains just Sagan Ipsum (Lorem Ipsum for the cosmos), but showcases the capabilities of Sphinx + Draw.io.
 
-The documentation is organized into the following sections:
+.. only:: html
+
+    The documentation is organized into the following sections:
 
 .. toctree::
    :maxdepth: 1
