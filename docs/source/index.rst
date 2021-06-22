@@ -16,7 +16,7 @@ docs-project-layout
    * - **Copyright**
      - The Unlicense <http://unlicense.org>
 
-Welcome to the documentation of `docs-project-layout <https://github.com/jaredweinfurtner/docs-project-layout>`_!  This documentation contains just Sagan Ipsum (Lorem Ipsum for the cosmos), but showcases the capabilities of Sphinx + Draw.io.
+Welcome to the documentation of `docs-project-layout <https://github.com/jaredweinfurtner/docs-project-layout>`_!  This documentation is mocked and only contains `Sagan Ipsum <http://saganipsum.com/>`_ (Lorem Ipsum for the cosmos), but showcases the capabilities of Sphinx + Draw.io.
 
 .. only:: html
 
