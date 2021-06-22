@@ -10,6 +10,10 @@ For technical documentation, we often distribute it via the web (think readthedo
 
 You will probably want to separate your project code (for example, in `/src`) from your technical documentation code (in `/docs`).  To get started with technical documentation, please head over to [*/docs*](./docs).
 
+## Technical Documentation
+
+You can add the generated pdf of the technical documentation as [release assets](https://github.com/jaredweinfurtner/docs-project-layout/releases), or deploy the static html to [Read the Docs](https://github.com/jaredweinfurtner/docs-project-layout/releases), [GitHub Pages](https://pages.github.com/), or any service that will host static html.
+
 ## License
 
 **docs-project-layout** is open-sourced under the Unlicense license. See the
