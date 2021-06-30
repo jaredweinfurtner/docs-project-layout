@@ -4,7 +4,7 @@
 
 For open-source projects, we tend to include everything in one mono-repository to reduce the complexity for adopters.  This creates a challenge to organize both documentation for users of the repository and technical documentation.  This project addresses the latter.  
 
-For technical documentation, we often distribute it via the web (think readthedocs.org), pdf (whitepaper), or even to internal organization confluence pages.  Instead of having duplicate and often out-of-sync documentation for each distribution method, we use [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) &  [Sphinx](https://www.sphinx-doc.org/en/master/) to enable documentation as code - automating documentation generation from a single codebase.  
+For technical documentation, we often distribute it via the web (think readthedocs.org), pdf (whitepaper), or even to internal organization confluence pages.  Instead of having duplicate and often out-of-sync documentation for each distribution method, we use [Sphinx](https://www.sphinx-doc.org/en/master/) to enable documentation as code - automating documentation generation from a single codebase.  
 
 ## Getting Started
 
