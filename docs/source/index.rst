@@ -27,13 +27,13 @@ Welcome to the documentation of `docs-project-layout <https://github.com/jaredwe
    :caption: Basics
 
    basics/introduction/introduction.md
-   basics/motivation/motivation.rst
+   basics/motivation/motivation.md
    basics/approach/approach.md
 
 .. toctree::
    :maxdepth: 1
    :caption: Core
 
-   core/overview.rst
-   core/components/components.rst
-   core/services/services.rst
+   core/overview.md
+   core/components/components.md
+   core/services/services.md
