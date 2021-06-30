@@ -20,7 +20,7 @@ For reading the technical documentation you have options:
 
 The technical documentation is generated via [GitHub Actions](https://github.com/features/actions) and served via [GitHub Pages](https://pages.github.com/)
 
-Here is the GitHub actions yml file located in `.github/workflows/docs.yml`:
+Here is an example GitHub actions `.yml` file:
 
 ```yaml
 # This is a basic workflow to help you get started with Actions
