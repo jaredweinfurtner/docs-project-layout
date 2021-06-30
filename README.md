@@ -14,7 +14,7 @@ You will probably want to separate your project code (for example, in `/src`) fr
 
 For technical documentation you have options:
 - To view as a PDF, please go to the [latest release assets](https://github.com/jaredweinfurtner/docs-project-layout/releases)
-- To view as HTML, please go to [docs-project-layout.weinfurtner.io](http://docs-project-layout.weinfurtner.io)
+- To view as HTML, please go to [jaredweinfurtner.github.io/docs-project-layout](https://jaredweinfurtner.github.io/docs-project-layout)
 
 ## License
 
