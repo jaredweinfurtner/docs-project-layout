@@ -27,6 +27,7 @@ jobs:
         touch docs/.nojekyll
     - name: Commit files
       run: |
+        git pull
         git add --all
         git config --local user.email "docks-project-layout[bot]@noreply.github.com"
         git config --local user.name "docks-project-layout[bot]"
