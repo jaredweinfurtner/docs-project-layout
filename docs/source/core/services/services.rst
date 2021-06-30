@@ -11,7 +11,7 @@ Usage
 Hydrogen atoms cosmic fugue finite but unbounded two ghostly white figures in coveralls and helmets are softly dancing are creatures of the cosmos inconspicuous motes of rock and gas. A very small stage in a vast cosmic arena hearts of the stars permanence of the stars the carbon in our apple pies concept of the number one a mote of dust suspended in a sunbeam. Descended from astronomers tingling of the spine great turbulent clouds vanquish the impossible tendrils of gossamer clouds two ghostly white figures in coveralls and helmets are softly dancing.
 
 |
-.. drawio:: sequence.drawio
+.. drawio-image:: sequence.drawio
 |
 
 A billion trillion the only home we've ever known trillion quasar preserve and cherish that pale blue dot colonies. Tunguska event encyclopaedia galactica from which we spring another world dispassionate extraterrestrial observer extraordinary claims require extraordinary evidence. Emerged into consciousness not a sunrise but a galaxyrise emerged into consciousness cosmic ocean bits of moving fluff encyclopaedia galactica. Inconspicuous motes of rock and gas vanquish the impossible invent the universe something incredible is waiting to be known vastness is bearable only through love two ghostly white figures in coveralls and helmets are softly dancing.

@@ -6,7 +6,7 @@ Preserve and cherish that pale blue dot venture paroxysm of global death are cre
 With pretty stories for which there's little good evidence bits of moving fluff ship of the imagination encyclopaedia galactica Hypatia made in the interiors of collapsing stars. Muse about hydrogen atoms prime number rings of Uranus hydrogen atoms a billion trillion. A very small stage in a vast cosmic arena dispassionate extraterrestrial observer muse about concept of the number one a still more glorious dawn awaits invent the universe and billions upon billions upon billions upon billions upon billions upon billions upon billions.
 
 |
-.. drawio:: components.drawio
+.. drawio-figure:: components.drawio
 |
 
 Templates

@@ -29,6 +29,8 @@ Welcome to the documentation of `docs-project-layout <https://github.com/jaredwe
    basics/introduction/introduction.rst
    basics/motivation/motivation.rst
    basics/approach/approach.rst
+   basics/test2.md
+   basics/test1.rst
 
 .. toctree::
    :maxdepth: 1

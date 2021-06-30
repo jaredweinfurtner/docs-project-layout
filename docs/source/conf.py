@@ -33,6 +33,7 @@ release = '0.0.1'
 extensions = [
     'sphinxcontrib.drawio',
     'sphinx_rtd_theme',
+    'myst_parser',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -69,6 +70,7 @@ html_static_path = ['_static']
 drawio_default_transparency = True
 drawio_headless = True
 drawio_no_sandbox = True
+drawio_binary_path = "/usr/bin/drawio"
 
 # -- Options for latexpdf ----------------------------------------------------
 # By default, Sphinx documentation outputs a PDF that's formatted for duplex printing, so there are alternating blank
