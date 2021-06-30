@@ -22,7 +22,7 @@ The technical documentation is generated via [GitHub Actions](https://github.com
 
 Here is the GitHub actions yml file located in `.github/workflows/docs.yml`:
 
-```
+```yaml
 # This is a basic workflow to help you get started with Actions
  
 name: Documentation
