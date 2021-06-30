@@ -22,7 +22,9 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Create local changes
       run: |
-        docker version
+        docker run --rm -v `pwd`/docs:/docs jaredweinfurtner/sphinx-drawio-docker make html
+        cp -r docs/build/html/* ./docs
+        ls -la docs
     - name: Commit files
       run: |
         git config --local user.email "docks-project-layout[bot]@noreply.github.com"
@@ -32,4 +34,4 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        branch: docs
