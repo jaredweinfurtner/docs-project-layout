@@ -12,9 +12,54 @@ You will probably want to separate your project code (for example, in `/src`) fr
 
 ## Technical Documentation
 
-For technical documentation you have options:
+For reading the technical documentation you have options:
 - To view as a PDF, please go to the [latest release assets](https://github.com/jaredweinfurtner/docs-project-layout/releases)
 - To view as HTML, please go to [jaredweinfurtner.github.io/docs-project-layout](https://jaredweinfurtner.github.io/docs-project-layout)
+
+## CI / Deployment
+
+The technical documentation is generated via [GitHub Actions](https://github.com/features/actions) and served via [GitHub Pages](https://pages.github.com/)
+
+Here is the GitHub actions yml file located in `.github/workflows/docs.yml`:
+
+```
+# This is a basic workflow to help you get started with Actions
+ 
+name: Documentation
+ 
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+ 
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+        fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+    - name: Generate Documentation
+      run: |
+        docker run --rm -v `pwd`/docs:/docs jaredweinfurtner/sphinx-drawio-docker make html
+        cp -r docs/build/html/* ./docs
+        touch docs/.nojekyll
+    - name: Commit files
+      run: |
+        git add --all
+        git config --local user.email "docs-project-layout[bot]@noreply.github.com"
+        git config --local user.name "docs-project-layout[bot]"
+        git commit -m "[bot] docs generation" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: docs
+        force: true
+```
 
 ## License
 
