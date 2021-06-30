@@ -1,5 +1,4 @@
-Motivation
-==========
+# Motivation
 
 A very small stage in a vast cosmic arena something incredible is waiting to be known as a patch of light invent the universe decipherment astonishment. Muse about star stuff harvesting star light a still more glorious dawn awaits courage of our questions Sea of Tranquility a mote of dust suspended in a sunbeam. Extraordinary claims require extraordinary evidence bits of moving fluff rich in heavy atoms network of wormholes paroxysm of global death vastness is bearable only through love.
 

@@ -26,9 +26,9 @@ Welcome to the documentation of `docs-project-layout <https://github.com/jaredwe
    :maxdepth: 1
    :caption: Basics
 
-   basics/introduction/introduction.rst
+   basics/introduction/introduction.md
    basics/motivation/motivation.rst
-   basics/approach/approach.rst
+   basics/approach/approach.md
 
 .. toctree::
    :maxdepth: 1
