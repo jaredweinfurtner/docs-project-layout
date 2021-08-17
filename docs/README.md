@@ -81,6 +81,10 @@ This is your landing page and should contain the tree structure of your document
 
 This is the only thing you need to copy & configure into your own project. Simply set the properties listed at the top for your particular project:
 
+### `/source/requirements.txt`
+
+This is only needed if you intend on using [readthedocs.org](https://readthedocs.org/) to host your documentation.  It tells the build process which pyhon dependencies to install.
+
 ```shell
 # -- Project information -----------------------------------------------------
 
