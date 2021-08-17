@@ -8,6 +8,13 @@ Generating documentation from the codebase should be as simple as possible for c
 docker run --rm -v `pwd`:/docs jaredweinfurtner/sphinx-drawio-docker make html latexpdf
 ```
 
+### To view the generated documentation, simply run the following in the root `/` folder and navigate to [http://localhost:8080](http://localhost:8080) - your changes will automatically be mounted:
+
+```shell
+docker-compose --profile docs up -d
+```
+
+
 ### To embed draw.io files, simply add to your documentation markup:
 
 reStructuredText:
