@@ -44,7 +44,7 @@ jobs:
         fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
     - name: Generate Documentation
       run: |
-        docker run --rm -v `pwd`/docs:/docs jaredweinfurtner/sphinx-drawio-docker make html
+        make docs
         cp -r docs/build/html/* ./docs
         touch docs/.nojekyll
     - name: Commit files
