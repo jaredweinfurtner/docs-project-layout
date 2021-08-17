@@ -2,35 +2,40 @@
 
 Generating documentation from the codebase should be as simple as possible for contributors. For Sphinx documentation, I have nicely packaged up a [Dockerfile](https://github.com/jaredweinfurtner/sphinx-drawio-docker) with Sphinx, python, drawio support, and all the necessary libraries pre-installed so it only requires one command inside the */docs* folder to generate all documentation.
 
-### To generate the documentation, simply run the following in the `/docs` folder:
+### Generate Documentation
+
+simply run the following in the root `/` folder:
 
 ```shell
-docker run --rm -v `pwd`:/docs jaredweinfurtner/sphinx-drawio-docker make html latexpdf
+make docs
 ```
 
-### To view the generated documentation, simply run the following in the root `/` folder and navigate to [http://localhost:8080](http://localhost:8080) - your changes will automatically be mounted:
+### View Documentation
+
+simply run the following in the root `/` folder and navigate to [http://localhost:8080](http://localhost:8080) - your changes will automatically be mounted:
 
 ```shell
 docker-compose --profile docs up -d
 ```
 
 
-### To embed draw.io files, simply add to your documentation markup:
+### Draw.io support
 
-reStructuredText:
+simply add to your documentation markup:
+
+_reStructuredText_:
 ~~~
 .. drawio-figure:: my-awesome-model.drawio
 ~~~
 
-Markdown:
+_Markdown_:
 ~~~
 ```{drawio-figure} my-awesome-model.drawio
 ```
 ~~~
 
 
-
-### Structure
+### File/Folder Structure
 
 ```
 build
